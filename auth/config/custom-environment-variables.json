@@ -1,0 +1,8 @@
+{
+  "jwtConfig" : {
+    "secretKey": "JWT_KEY"
+  },
+  "mongo" : {
+    "uri": "MONGO_URI"
+  }
+}

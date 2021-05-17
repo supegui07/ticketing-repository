@@ -1,0 +1,8 @@
+{
+  "jwtConfig" : {
+    "secretKey": "key-test"
+  },
+  "stripe" : {
+    "secretKey": "sk_test_51IrOheBnRRyJbzlCYrQH0U5oKryYmhSqD7b1y2uFWmeQnOgHwCXzi9qEwrE1GXgs70BFuZEvg5hCj6JvIEKs66Bd00sHrvRr6s"
+  }
+}

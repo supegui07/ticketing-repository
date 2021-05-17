@@ -1,0 +1,10 @@
+{
+  "redis" : {
+    "host": "REDIS_HOST"
+  },
+  "nats" : {
+    "clientID": "NATS_CLIENT_ID",
+    "clusterID": "NATS_CLUSTER_ID",
+    "url": "NATS_URL"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "jwtConfig" : {
+    "secretKey": "key-test"
+  }
+}
